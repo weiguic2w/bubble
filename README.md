@@ -1,69 +1,43 @@
-# bubble
+### 英语外刊阅读
 
-## Build Setup
+##### 在线访问
 
-```bash
-# install dependencies
-$ npm install
+https://bubble-henna.vercel.app/home/dashboard
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+<br>
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+##### 特点
 
-# generate static project
-$ npm run generate
-```
+- AI翻译
+- markdown编辑
+- 夜间模式阅读
+- 双列排版沉浸式阅读 
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+<br>
 
-## Special Directories
+##### 基本流程
+![image](https://github.com/weiguic2w/bubble/assets/124777699/983d9713-2a1b-4ae7-b1d1-9d93d2c63451)
+![image](https://github.com/weiguic2w/bubble/assets/124777699/1f8392cb-a378-4a2e-98eb-6a5956285c74)
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+<br>
+##### markdown编辑笔记
 
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+![image](https://github.com/weiguic2w/bubble/assets/124777699/b2b709da-c3ab-40da-bd3e-da7a28a66769)
 
 
-### `pages`
+##### 夜间模式
 
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
+![image](https://github.com/weiguic2w/bubble/assets/124777699/f55c492b-7945-473b-aaa4-d9dd972578ad)
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
 
-### `plugins`
+<br>
 
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
+##### 数据来源
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
+文章来源于：https://taizihuang.github.io/ForeignAffairs/， 翻译由qwen-plus和网易智云提供。
 
-### `static`
+<br>
 
-This directory contains your static files. Each file inside this directory is mapped to `/`.
+##### 查词功能
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+网站不提供查词功能，可安装 [欧路翻译 - 网页划词翻译工具 (google.com)](https://chromewebstore.google.com/detail/欧路翻译-网页划词翻译工具/djbfechcnkppbknmlhfcaoifgnicolin)等插件实现。
