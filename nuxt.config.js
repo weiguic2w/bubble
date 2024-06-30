@@ -5,6 +5,9 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  generate: {
+    dir: 'dist' // 默认就是 'dist'，可以修改为其他目录
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'bubble',
