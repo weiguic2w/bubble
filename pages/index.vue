@@ -1,9 +1,16 @@
-<template></template>
+<template>
+  <div>
+    <Nav></Nav>
+    <nuxt-child></nuxt-child>
+  </div>
+</template>
 
 <script>
 export default {
-  mounted() {
-    this.$router.push("/home");
-  },
+  mounted() {},
 };
 </script>
+
+<style scoped>
+/* 添加你的样式 */
+</style>

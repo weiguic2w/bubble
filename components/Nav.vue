@@ -2,8 +2,8 @@
   <div class="container">
     <div>&ThinSpace;</div>
     <div class="left">
-      <nuxt-link to="/home">首页</nuxt-link>
-      <nuxt-link to="/about">关于</nuxt-link>
+      <nuxt-link to="/home/dashboard">首页</nuxt-link>
+      <nuxt-link to="/home/about">关于</nuxt-link>
     </div>
     <label
       for="themeToggle"
