@@ -28,7 +28,16 @@
       <p>
         <strong style="color: var(--primary-100)"
           >文章带有主观的政治立场并不代表双维本人观点，请自行辨别！</strong
-        >目前精力有限暂时爬取静态网站来充当数据源，
+        >
+      </p>
+      <h2>反馈</h2>
+      <p>
+        网站开源且长期更新，希望得到你的帮助。<br />
+        如果你有好的想法或者文章数据源，请到<a
+          href="https://github.com/weiguic2w"
+          target="_blank"
+          >github</a
+        >上提交issue。
       </p>
     </main>
   </div>
