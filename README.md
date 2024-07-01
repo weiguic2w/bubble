@@ -47,7 +47,7 @@ https://bubble-henna.vercel.app/home/dashboard
 
 ##### 反馈           
 网站开源且长期更新，希望得到你的帮助。<br>
-如果你有好的想法或者文章数据源，请到  [github](https://github.com/weiguic2w)上提交issue。  
+如果你有好的想法或者文章数据源，请到  [github](https://github.com/weiguic2w/bubble)上提交issue。  
 
 
 
