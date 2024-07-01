@@ -34,7 +34,7 @@
       <p>
         网站开源且长期更新，希望得到你的帮助。<br />
         如果你有好的想法或者文章数据源，请到<a
-          href="https://github.com/weiguic2w"
+          href="https://github.com/weiguic2w/bubble"
           target="_blank"
           >github</a
         >上提交issue。
