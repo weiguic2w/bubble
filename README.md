@@ -1,8 +1,8 @@
 ### 英语外刊阅读
 
-##### 在线访问
-
-https://bubble-henna.vercel.app/home/dashboard
+##### 在线访问  
+- 国内：[ppenglish.tech](https://www.ppenglish.tech/) 
+- 国际：https://bubble-henna.vercel.app
 
 <br>
 
