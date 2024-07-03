@@ -132,7 +132,7 @@ export default {
 };
 </script>
 
-<style >
+<style scoped>
 .group {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
