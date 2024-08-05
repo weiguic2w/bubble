@@ -1,7 +1,10 @@
+
+多方面原因我放弃了该项目并重新构建了新的外刊网站：https://github.com/wushanglang/ppenglish 。这里有更好的文章数据源，更自由的样式布局以提供沉浸阅读。🥰
+<br><br><br>  
+
 ### 英语外刊阅读
 
 ##### 在线访问  
-- 国内：[ppenglish.tech](https://www.ppenglish.tech/) 
 - 国际：https://bubble-henna.vercel.app
 
 <br>
